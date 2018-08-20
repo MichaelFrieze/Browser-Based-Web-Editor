@@ -1,0 +1,16 @@
+{
+  "name": "browser-based-web-editor",
+  "version": "1.0.0",
+  "description": "Just a fun little code editor.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "deploy-help": "gh-pages --help"
+  },
+  "author": "Michael Frieze",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
