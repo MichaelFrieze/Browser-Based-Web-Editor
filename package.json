@@ -1,5 +1,5 @@
 {
-  "name": "browser-based-web-editor",
+  "name": "browser-editor",
   "version": "1.0.0",
   "description": "Just a fun little code editor.",
   "main": "index.js",
